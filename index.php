@@ -10,7 +10,7 @@
      	<?php if (isset($_GET['error'])) { ?>
      		<p class="error"><?php echo $_GET['error']; ?></p>
      	<?php } ?>
-     	<label>User Name</label>
+     	<label>UserName</label>
      	<input type="text" name="uname" placeholder="User Name"><br>
 
      	<label>User Name</label>
